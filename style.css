@@ -1,0 +1,16 @@
+.nav{
+    background-color: #CEC2FA;
+    font-family: 'Spartan', sans-serif;
+    color: white;
+}
+.nav-item{
+    color: white;
+}
+
+/* using chrome to inspect image size and adjust pixels accordingly to fit within containter
+ */
+#VetonMeas.png{
+    height: 640px;
+    width: 872px;
+
+}
