@@ -1,16 +1,32 @@
 .nav{
     background-color: #CEC2FA;
     font-family: 'Spartan', sans-serif;
+    font-weight: bolder;
     color: white;
+    padding-top: 10px;
 }
 .nav-item{
     color: white;
 }
 
-/* using chrome to inspect image size and adjust pixels accordingly to fit within containter
- */
-#VetonMeas.png{
-    height: 640px;
-    width: 872px;
-
+.col-md-5{
+    background-color: #CEC2FA;
+    font-family: 'Spartan', sans-serif;
+    font-weight: bolder;
+    color: black;
 }
+
+h4,
+Header{
+    background-color: black;
+    color:white;
+    font-family: 'Spartan', sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.container{
+    border-style: dotted;
+}
+
+
+
