@@ -15,7 +15,9 @@
     font-weight: bolder;
     color: black;
 }
-
+.col-12{
+    text-emphasis: center;
+}
 h4,
 Header{
     background-color: black;
@@ -25,8 +27,17 @@ Header{
     padding-bottom: 10px;
 }
 .container{
-    border-style: dotted;
+    width: 100%;
 }
 
+footer{
+    color:white;
+    background-color: black;
+}
 
+.Assignment-Information,
+footer,
+Header{
+    text-align: center;
+}
 
