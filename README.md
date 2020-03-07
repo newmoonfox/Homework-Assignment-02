@@ -10,4 +10,5 @@ In order to create a "responsive" portfiolio I am:
         * Navigation Bar
         * Image-Cards to create gallery
         * Using "form" code from bootstrap to create a contact form.
-3. Utilizing what I learned in the activities from the student facing repository.
+3. Making a stylesheet/css document to add style to bootstrap code.
+4. Utilizing what I learned in the activities from the student facing repository.
