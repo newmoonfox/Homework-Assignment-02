@@ -18,6 +18,13 @@
 .col-12{
     text-emphasis: center;
 }
+.col-md-12{
+    background-color: #CEC2FA;
+}
+
+h4 {
+    text-align: center;
+}
 h4,
 Header{
     background-color: black;
@@ -28,6 +35,7 @@ Header{
 }
 .container{
     width: 100%;
+    border-style: solid;
 }
 
 footer{
@@ -40,4 +48,8 @@ footer,
 Header{
     text-align: center;
 }
-
+/* Adding/adjusting featured-card style portfolio html.doc */
+.card-header{
+    background-color: black;
+    color: white;
+}
