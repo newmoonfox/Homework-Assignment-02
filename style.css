@@ -9,19 +9,6 @@
     color: white;
 }
 
-.col-md-5{
-    background-color: #CEC2FA;
-    font-family: 'Spartan', sans-serif;
-    font-weight: bolder;
-    color: black;
-}
-.col-12{
-    text-emphasis: center;
-}
-.col-md-12{
-    background-color: #CEC2FA;
-}
-
 h4 {
     text-align: center;
 }
